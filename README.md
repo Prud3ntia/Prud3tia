@@ -1,23 +1,51 @@
-# Prud3tia
+# AI & Cybersecurity Academy
 
-Welcome!
+Welcome to my learning portfolio.
 
-This repository documents my journey from beginner to cybersecurity professional.
+This repository documents my journey from beginner to cybersecurity and AI professional.
 
-## Current Certifications
+---
 
+## 🎯 Goals
+
+- Earn CompTIA A+
+- Earn CompTIA Network+
+- Earn CompTIA Security+
+- Learn Linux
+- Learn Python
+- Learn AI & Machine Learning
+- Build cybersecurity projects
+- Complete TryHackMe learning paths
+
+---
+
+## 📚 Current Progress
+
+### Certifications
 - [ ] CompTIA A+
-- [ ] Network+
-- [ ] Security+
+- [ ] CompTIA Network+
+- [ ] CompTIA Security+
 
-## Current Skills
+### Current Courses
+- [x] Professor Messer A+
+- [x] Linux Fundamentals
+- [ ] Python
+- [ ] AI Fundamentals
 
-- Linux
-- Python
-- Networking
-- AI
-- Robotics
+---
 
-## Current Projects
+## 📂 Repository Structure
 
-Coming Soon!
+- 01-A-Plus
+- 02-Linux
+- 03-Python
+- 04-Networking
+- 05-AI
+- 06-TryHackMe
+- 07-Projects
+- 08-Robotics
+- 09-Notes
+
+---
+
+Thanks for following my journey!
